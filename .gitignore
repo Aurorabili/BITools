@@ -1,0 +1,11 @@
+# sequence data
+/data
+*/data
+*.fasta
+*.gb
+*.sra
+
+# tmp
+/tmp
+*/tmp
+*.tmp
