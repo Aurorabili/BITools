@@ -1,5 +1,5 @@
 # Bioinformatics Tools
-This repository will contain commonly used bioinformatics tools.
+This repository contain commonly used bioinformatics tools.
 
 ## 🌟Feature 
 
